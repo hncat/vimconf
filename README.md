@@ -1,4 +1,4 @@
 # 个人vim配置
 ## 安装 ohmyzsh
-<a src='https://github.com/ohmyzsh/ohmyzsh'>ohmyzsh</a>
+[ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 ## clangd配置
