@@ -22,8 +22,10 @@ Centos Stream9 + vim 8.2
 ## 安装ohmyzsh
 [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 ## nodejs配置
+```
 Centos Stream 9: sudo yum install nodejs
 其它linux发行版安装方式请自行前往nodejs获取: [node.js](https://nodejs.org/en/)
+```
 ## coc.nvim配置
 1. vim      # 进入vim标准模式
 2. :CocInstall coc-clangd # 下载coc-clangd (此时还不支持c/c++/objc智能提示需要下载对应的lsp coc-clangd需要下载clangd)
