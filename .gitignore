@@ -1,0 +1,4 @@
+# 忽略.git目录
+.git/
+# 忽略plugged文件
+plugged/
