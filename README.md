@@ -1,7 +1,7 @@
 # 个人vim配置
 ## 配置环境
 ```
-Centos Stream9 + vim 8.2
+Centos Stream 9 + vim 8.2 + node 16.16.0
 ```
 ## 项目配置
 ```
