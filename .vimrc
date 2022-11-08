@@ -10,5 +10,6 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'Yggdroot/LeaderF', { 'do': ':LeaderfInstallCExtension' }
 Plug 'rakr/vim-one'
 Plug 'frazrepo/vim-rainbow'
+Plug 'nathanaelkane/vim-indent-guides'
 
 call plug#end()
