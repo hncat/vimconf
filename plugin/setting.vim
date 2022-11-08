@@ -40,3 +40,6 @@ noremap <left> <nop>
 inoremap <left> <nop>
 noremap <right> <nop>
 inoremap <right> <nop>
+
+" Disable quote concealing in JSON files
+let g:vim_json_conceal=0
