@@ -45,6 +45,3 @@ inoremap <right> <nop>
 let g:vim_json_conceal=0
 
 set cursorline
-" set cursorcolumn
-
-set foldmethod=syntax
